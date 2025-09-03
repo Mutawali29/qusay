@@ -1,6 +1,6 @@
-# Hi 👋, I'm Qusay
+# Saya Qusay Mutawali dari Kelas Praktikum Pemrograman Mobile (C)
 
-Saya Mahasiswa Informatika.  
+Saya Mahasiswa Informatika Angkatan 2023
 Berikut laporan praktikum yang sudah saya kerjakan:
 
 ## 📑 Laporan Praktikum
