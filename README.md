@@ -1,4 +1,5 @@
-# Saya Qusay Mutawali dari Kelas Praktikum Pemrograman Mobile (C)
+# Saya Qusay Mutawali NIM 230605110049 
+# dari Kelas Praktikum Pemrograman Mobile (C)
 
 Saya Mahasiswa Informatika Angkatan 2023
 
